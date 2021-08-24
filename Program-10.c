@@ -18,7 +18,7 @@ int main()
    for(i=0;i<n;i++)
       {
 	 //print the array elements
-         printf("%d",ptr[i]);
+         printf("%d", ptr[i]);
 	  }
 	   return 0;
 }

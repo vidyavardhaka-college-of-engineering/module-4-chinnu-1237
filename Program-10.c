@@ -14,7 +14,7 @@ int main()
 	   scanf(" %d", &arr1[i]);
 	  }
     ptr=&arr1;
-   printf("The elements you entered are:");
+   printf("The elements you entered are: \n");
    for(i=0;i<n;i++)
       {
 	 //print the array elements

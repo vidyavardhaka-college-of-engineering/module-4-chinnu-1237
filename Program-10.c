@@ -8,10 +8,10 @@ int main()
 {
    int arr1[25], i,n,*ptr;
    printf("Input the number of elements to store in the array  and the elements:");
-   scanf("%d",&n);
+   scanf("%d", &n);
    for(i=0;i<n;i++)
       {
-	   scanf(" %d",&arr1[i]);
+	   scanf(" %d", &arr1[i]);
 	  }
     ptr=&arr1;
    printf("The elements you entered are:");

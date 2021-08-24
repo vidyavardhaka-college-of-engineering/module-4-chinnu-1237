@@ -4,7 +4,7 @@
 
 //Input: 5 2 3 4 5 6 
 
-//Output:Sum=30
+//Output:Sum=20
 
  
 

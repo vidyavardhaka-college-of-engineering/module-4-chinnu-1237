@@ -12,20 +12,13 @@ int main()
 {
 
    int fno, sno, *ptr, *qtr, sum;
-
-   printf(" Input two numbers: ");
-
-   scanf("%d%d", &fno,&sno);
-
-   ptr = &fno;
-
-   qtr = &sno;
-
-   sum=*ptr+*qtr;
-
-   printf(" Sum=%d",sum);
-
-    return 0;
+   printf(" Input two numbers: ");
+   scanf("%d%d", &fno,&sno);
+   ptr = &fno;
+   qtr = &sno;
+   sum=*ptr+*qtr;
+   printf(" Sum=%d",sum);
+   return 0;
 
 }
 

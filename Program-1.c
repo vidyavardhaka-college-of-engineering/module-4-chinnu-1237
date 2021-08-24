@@ -1,3 +1,5 @@
+//Input : 23  34 
+
 //Output: Sum of feet = 57
 
  
@@ -37,4 +39,6 @@ int main()
     return 0;
 
 }
+
+
 

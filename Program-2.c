@@ -10,9 +10,9 @@
 
 struct student  
 
-{  //char name[10];
+{  char name[10];
 
-    //int id;
+    int id;
 
     int marks;  
 

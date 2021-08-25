@@ -19,7 +19,7 @@ struct math {
 
     float average;
 
-};
+}
 
  
 

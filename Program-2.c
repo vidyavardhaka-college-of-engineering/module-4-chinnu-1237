@@ -16,7 +16,7 @@ struct student 
 
     int marks;  
 
-};  
+}
 
 int main()  
 
@@ -24,7 +24,8 @@ int main() 
 
   struct student s1,s2,s3;  
 
-  printf("Enter the  marks of student 1,2 and 3"); scanf("%d %d %d",&s1.marks,&s2.marks,&s3.marks); 
+  printf("Enter the  marks of student 1,2 and 3"); 
+  scanf("%d %d %d",&s1.marks,&s2.marks,&s3.marks); 
 
  
 

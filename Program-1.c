@@ -7,34 +7,23 @@
 //Program to add two distances (feet-inch)
 
 #include <stdio.h>
-
 struct Distance
 
 {
-
-    int feet;
-
-} dist1, dist2, sum;
-
- 
-
-int main()
+int feet;
+dist1, dist2, sum;
+}
+ int main()
 
 {
 
     printf("Enter feet  value for 1st and 2nd distance: ");
-
-    scanf("%d%d", &dist1.feet, &dist2.feet);
+    scanf("%d%d", &dist1.feet, &dist2.feet);
 
     // adding feet
 
     sum.feet = dist1.feet + dist2.feet;
-
-   
-
- 
-
-    printf("Sum of feet = %d",sum.feet);
+    printf("Sum of feet = %d",sum.feet);
 
     return 0;
 
